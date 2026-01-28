@@ -25,7 +25,7 @@ function Hero() {
         <img
           src={HeroImage}
           alt="hero image"
-          className="h-125 lg:h-190 xl:h-220 pb-30 object-cover"
+          className="h-150 md:h-175 lg:h-190 xl:h-220 pb-30 object-cover"
         />
         <div
           className="absolute bottom-0 left-1/2 -translate-x-1/2
