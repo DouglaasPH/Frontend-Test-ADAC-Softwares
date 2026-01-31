@@ -1,4 +1,4 @@
-# Landing Page
+# Frontend Test - ADAC Softwares
 
 Este projeto foi desenvolvido com o objetivo de implementar uma landing page a partir de um design fornecido no Figma, seguindo fielmente o layout e as diretrizes visuais apresentadas.
 
@@ -9,7 +9,7 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais de frontend, i
 Design: https://www.figma.com/design/ZPNUmaiz9mBy3vdKDQUass/Figma-startup-landing-page-dark--Community-?node-id=0-3517&t=IcLMAHcBHtFiKVsF-1
 
 <br>
-Acesse o projeto em produção: https://[seu-projeto].vercel.app
+Acesse o projeto em produção: https://frontend-test-adac-softwares-ou9gaeb7w.vercel.app/
 
 <br>
 
