@@ -1,10 +1,10 @@
 // icons
-import PartnersIcon1 from "../assets/partners-icon-1.svg";
-import PartnersIcon2 from "../assets/partners-icon-2.svg";
-import PartnersIcon3 from "../assets/partners-icon-3.svg";
-import PartnersIcon4 from "../assets/partners-icon-4.svg";
-import PartnersIcon5 from "../assets/partners-icon-5.svg";
-import PartnersIcon6 from "../assets/partners-icon-6.svg";
+import PartnersIcon1 from "../assets/partners/partners-icon-1.svg";
+import PartnersIcon2 from "../assets/partners/partners-icon-2.svg";
+import PartnersIcon3 from "../assets/partners/partners-icon-3.svg";
+import PartnersIcon4 from "../assets/partners/partners-icon-4.svg";
+import PartnersIcon5 from "../assets/partners/partners-icon-5.svg";
+import PartnersIcon6 from "../assets/partners/partners-icon-6.svg";
 
 function Partners() {
   return (

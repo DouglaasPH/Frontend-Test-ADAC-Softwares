@@ -1,11 +1,11 @@
 // images
-import GalleryImage1 from "../assets/gallery-image-1.jpg";
-import GalleryImage2 from "../assets/gallery-image-2.jpg";
-import GalleryImage3 from "../assets/gallery-image-3.jpg";
-import GalleryImage4 from "../assets/gallery-image-4.jpg";
-import GalleryImage5 from "../assets/gallery-image-5.jpg";
-import GalleryImage6 from "../assets/gallery-image-6.jpg";
-import GalleryImage7 from "../assets/gallery-image-7.jpg";
+import GalleryImage1 from "../assets/gallery/gallery-image-1.jpg";
+import GalleryImage2 from "../assets/gallery/gallery-image-2.jpg";
+import GalleryImage3 from "../assets/gallery/gallery-image-3.jpg";
+import GalleryImage4 from "../assets/gallery/gallery-image-4.jpg";
+import GalleryImage5 from "../assets/gallery/gallery-image-5.jpg";
+import GalleryImage6 from "../assets/gallery/gallery-image-6.jpg";
+import GalleryImage7 from "../assets/gallery/gallery-image-7.jpg";
 
 function Gallery() {
   return (

@@ -2,8 +2,8 @@
 import { useState } from "react";
 
 // images
-import logo from "../assets/logo.svg";
-import hamburguer from "../assets/hamburguer.svg";
+import logo from "../assets/navbar/logo.svg";
+import hamburguer from "../assets/navbar/hamburguer.svg";
 
 function Navbar() {
   const [isActiveHamburguer, setIsActiveHamburguer] = useState(false);

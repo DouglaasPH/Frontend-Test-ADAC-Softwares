@@ -1,5 +1,5 @@
-import ContentsMacBookPro from "../assets/contents-macbook-pro.png";
-import ContentsScreen from "../assets/contents-screen.png";
+import ContentsMacBookPro from "../assets/contents/contents-macbook-pro.png";
+import ContentsScreen from "../assets/contents/contents-screen.png";
 
 function Contents() {
   return (

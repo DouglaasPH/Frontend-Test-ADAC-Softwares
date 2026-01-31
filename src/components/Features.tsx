@@ -1,11 +1,11 @@
 // images
-import FeaturesImage1 from "../assets/features-image-1.png";
-import FeaturesImage2 from "../assets/features-image-2.png";
+import FeaturesImage1 from "../assets/features/features-image-1.png";
+import FeaturesImage2 from "../assets/features/features-image-2.png";
 
 // vectors
-import Vector1 from "../assets/features-vector-1.svg";
-import Vector2 from "../assets/features-vector-2.svg";
-import Vector3 from "../assets/features-vector-3.svg";
+import Vector1 from "../assets/features/features-vector-1.svg";
+import Vector2 from "../assets/features/features-vector-2.svg";
+import Vector3 from "../assets/features/features-vector-3.svg";
 
 function Features() {
   return (
