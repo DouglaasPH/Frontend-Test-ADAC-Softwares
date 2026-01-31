@@ -14,6 +14,7 @@ import Gallery from "./components/Gallery";
 import Partners from "./components/Partners";
 import Testimonials from "./components/Testimonials";
 import CTA from "./components/Cta";
+import Footer from "./components/footer";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -25,5 +26,6 @@ createRoot(document.getElementById("root")!).render(
     <Partners />
     <Testimonials />
     <CTA />
+    <Footer />
   </StrictMode>,
 );
