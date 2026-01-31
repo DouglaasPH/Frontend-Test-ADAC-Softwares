@@ -9,7 +9,7 @@ import Vector3 from "../assets/features/features-vector-3.svg";
 
 function Features() {
   return (
-    <section className="pt-50 flex flex-col justify-center items-center gap-15">
+    <section className="flex flex-col justify-center items-center gap-15">
       <div className="flex flex-col justify-center items-center gap-7">
         <h1 className="text-white w-70 md:w-170 font-light text-[52px] md:text-[80px] leading-15 md:leading-22 tracking-[0.2px] text-center">
           FEATURES

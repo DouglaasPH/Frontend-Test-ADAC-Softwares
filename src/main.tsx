@@ -18,14 +18,16 @@ import Footer from "./components/footer";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <Navbar />
-    <Hero />
-    <Features />
-    <Contents />
-    <Gallery />
-    <Partners />
-    <Testimonials />
-    <CTA />
-    <Footer />
+    <main className="flex flex-col gap-50">
+      <Navbar />
+      <Hero />
+      <Features />
+      <Contents />
+      <Gallery />
+      <Partners />
+      <Testimonials />
+      <CTA />
+      <Footer />
+    </main>
   </StrictMode>,
 );

@@ -3,7 +3,7 @@ import HeroImage from "../assets/hero/hero-image.png";
 
 function Hero() {
   return (
-    <section className="pt-20 flex flex-col justify-center items-center gap-15">
+    <section className="flex flex-col justify-center items-center gap-15">
       <div className="flex flex-col justify-center items-center gap-7">
         <h1 className="text-white w-70 md:w-170 font-light md:font-medium text-[52px] md:text-[80px] leading-15 md:leading-22 tracking-[0.2px] text-center">
           Work at the speed of thought
