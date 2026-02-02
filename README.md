@@ -9,7 +9,7 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais de frontend, i
 Design: https://www.figma.com/design/ZPNUmaiz9mBy3vdKDQUass/Figma-startup-landing-page-dark--Community-?node-id=0-3517&t=IcLMAHcBHtFiKVsF-1
 
 <br>
-Acesse o projeto em produção: https://frontend-test-adac-softwares-ou9gaeb7w.vercel.app/
+Acesse o projeto em produção: https://frontend-test-adac-softwares-nine.vercel.app/
 
 <br>
 
